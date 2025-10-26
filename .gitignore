@@ -1,2 +1,4 @@
 
 ._Timer.tcl
+*.app
+._Timer.command
